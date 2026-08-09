@@ -1,10 +1,10 @@
-# 🚀 SCIC/EJP-13 — Backend API
+# 🚀 Prisma & PostgreSQL — Backend API
 
 A production-grade REST API for a full e-commerce platform, built with **Express.js**, **TypeScript**, **Prisma ORM**, and **PostgreSQL**. Handles authentication, product catalog, orders, reviews, and wishlist — fully deployable to the cloud in minutes.
 
 > 🔗 **Live API:** [https://postgresql-test-server.onrender.com](https://postgresql-test-server.onrender.com)
 > 🖥️ **Frontend:** [https://postgre-sql-test-client.vercel.app](https://postgre-sql-test-client.vercel.app)
-> 📦 **Repo:** [github.com/fahim3101/PostgreSQL-Test-server](https://github.com/fahim3101/PostgreSQL-Test-server)
+> 📦 **Repo Frontend:** [github.com/fahim3101/PostgreSQL-Test-client](https://github.com/fahim3101/PostgreSQL-Test-client)
 
 ---
 
